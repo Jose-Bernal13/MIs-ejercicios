@@ -1,0 +1,6 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\bin\Debug\ciclofor.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\obj\Debug\ciclofor.csprojResolveAssemblyReference.cache
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\bin\Debug\ciclofor.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\bin\Debug\ciclofor.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\obj\Debug\ciclofor.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\ciclofor\ciclofor\obj\Debug\ciclofor.pdb

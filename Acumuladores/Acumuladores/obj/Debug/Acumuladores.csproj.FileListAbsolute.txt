@@ -1,0 +1,6 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\bin\Debug\Acumuladores.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\obj\Debug\Acumuladores.csprojResolveAssemblyReference.cache
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\bin\Debug\Acumuladores.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\bin\Debug\Acumuladores.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\obj\Debug\Acumuladores.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Acumuladores\Acumuladores\obj\Debug\Acumuladores.pdb

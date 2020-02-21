@@ -1,0 +1,5 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if_else\Condicional_if_else\obj\Debug\Condicional_if_else.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if_else\Condicional_if_else\obj\Debug\Condicional_if_else.pdb

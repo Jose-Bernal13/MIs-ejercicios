@@ -1,0 +1,5 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.pdb

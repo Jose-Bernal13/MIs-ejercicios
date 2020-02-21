@@ -1,0 +1,6 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\bin\Debug\Metodofor.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\obj\Debug\Metodofor.csprojResolveAssemblyReference.cache
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\bin\Debug\Metodofor.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\bin\Debug\Metodofor.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\obj\Debug\Metodofor.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Metodofor\Metodofor\obj\Debug\Metodofor.pdb

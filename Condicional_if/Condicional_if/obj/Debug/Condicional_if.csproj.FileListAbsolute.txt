@@ -1,0 +1,6 @@
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\bin\Debug\Condicional_if.exe.config
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\obj\Debug\Condicional_if.csprojResolveAssemblyReference.cache
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\bin\Debug\Condicional_if.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\bin\Debug\Condicional_if.pdb
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\obj\Debug\Condicional_if.exe
+C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Condicional_if\Condicional_if\obj\Debug\Condicional_if.pdb
