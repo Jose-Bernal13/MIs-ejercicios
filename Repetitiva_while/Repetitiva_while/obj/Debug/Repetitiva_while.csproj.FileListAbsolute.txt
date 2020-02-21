@@ -3,3 +3,6 @@ C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repet
 C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.pdb
 C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.exe
 C:\Users\ADSI 2\Desktop\ADSI-1961869\JESUS DAVID CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.pdb
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.exe.config
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.exe
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.pdb

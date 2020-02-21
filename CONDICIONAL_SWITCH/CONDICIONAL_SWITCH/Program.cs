@@ -8,6 +8,7 @@ class Program
         int dia = 0;
         int mes = 0;
         int año = 0;
+       
         Console.WriteLine("Ingresar el dia de nacimiento: ");
         dia = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Ingresar el mes de nacimiento: ");

@@ -1,0 +1,5 @@
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Operadores_arimeticos\Operadores_arimeticos\bin\Debug\Operadores_arimeticos.exe.config
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Operadores_arimeticos\Operadores_arimeticos\bin\Debug\Operadores_arimeticos.exe
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Operadores_arimeticos\Operadores_arimeticos\bin\Debug\Operadores_arimeticos.pdb
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Operadores_arimeticos\Operadores_arimeticos\obj\Debug\Operadores_arimeticos.exe
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Operadores_arimeticos\Operadores_arimeticos\obj\Debug\Operadores_arimeticos.pdb
