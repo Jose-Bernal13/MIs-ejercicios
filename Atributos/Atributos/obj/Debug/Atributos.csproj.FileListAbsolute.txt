@@ -1,0 +1,6 @@
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\bin\Debug\Atributos.exe.config
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\bin\Debug\Atributos.exe
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\bin\Debug\Atributos.pdb
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\obj\Debug\Atributos.exe
+E:\ADSI-1961869\JESUS_DAVID_CALDERON\Atributos\Atributos\obj\Debug\Atributos.pdb
