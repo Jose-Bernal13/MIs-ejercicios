@@ -8,7 +8,7 @@ class Program
         {
 
             Console.WriteLine("Hola Juan");
-            Console.WriteLine("Bienvenido");
+            Console.WriteLine("Prueba de control de versiones");
             Console.ReadLine();
         }
     }
